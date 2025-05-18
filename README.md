@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   
   <!-- Fortran -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Fortran_logo.svg" alt="Fortran" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fortran_logo.svg" alt="FORTRAN" width="60" height="60"/>
   
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
@@ -34,16 +34,11 @@
   <!-- Matlab -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
   
-  <!-- WxMaxima -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WxMaxima_Logo.png" alt="WxMaxima" width="60" height="60"/>
-</p>
-
 ---
 
 <h3>📫 You can reach me at:</h3>
 
-- 📧 Email: your.email@example.com  
-- 🌐 Website or blog (if any)  
+- 📧 Email: badr.sh@outlook.es
 - 📂 Check out my pinned repositories below ⬇️
 
 
