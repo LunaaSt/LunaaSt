@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Luna 🌙</h1>
+<h1 align="center">Hi, I'm Luna </h1>
 
 <p align="center">
-  🧠 Physics student finishing my undergraduate degree, exploring the world of <strong>theoretical physics</strong> with a deep passion for <strong>computational physics</strong>.
+   Physics student finishing my undergraduate degree, exploring the world of <strong>theoretical physics</strong> with a deep passion for <strong>computational physics</strong>.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   
   <!-- Fortran -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fortran_logo.svg" alt="FORTRAN" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/73284245/277034252-9f2d1b60-3b4b-4411-a0e2-6a261bc3765d.png" alt="FORTRAN" width="60" height="60"/>
   
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
@@ -29,7 +29,7 @@
 
 <p align="left">
   <!-- Mathematica -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Wolfram_Alpha_logo.svg" alt="Mathematica" width="60" height="60"/>
+   <img src="https://user-images.githubusercontent.com/73284245/277033962-15acb12d-0c90-4a0c-aed4-fc3fe78ebdeb.png" alt="Mathematica" width="60" height="60"/>
   
   <!-- Matlab -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
