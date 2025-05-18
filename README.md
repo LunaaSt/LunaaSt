@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   
   <!-- Fortran -->
-  <img src="https://user-images.githubusercontent.com/73284245/277034252-9f2d1b60-3b4b-4411-a0e2-6a261bc3765d.png" alt="FORTRAN" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="FORTRAN" width="60" height="60"/>
   
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
